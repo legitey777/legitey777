@@ -93,7 +93,7 @@ Estudo e uso prático das principais ferramentas de pentest e análise forense e
 ## 📂 Projetos & Repositórios (exemplos)
 - **pentest-scripts** — automações de reconnaissance e scanning (Python).  
 - **siem-playbook** — playbooks para ingestão e correlação de logs.  
-- **infra-hardening** — Ansible/Terraform para hardening de servidores Linux.  
+- **Linux-Server-Master** — Ansible/Terraform para hardening de servidores Linux.  
 - **forensic-toolkit** — scripts e exemplos de análise forense.
 
 > Substitua por links para seus repositórios reais.
