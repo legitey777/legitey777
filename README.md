@@ -77,8 +77,6 @@ Estudo e uso prático das principais ferramentas de pentest e análise forense e
   - Disciplinas-chave: Segurança de Redes, Criptografia, Forense Computacional, Sistemas Operacionais.  
   - Atividades: monitoria em laboratório, participação em grupos de segurança.
 
-> Edite para suas informações reais: instituição, curso e datas.
-
 ---
 
 ## 🏆 Certificações & Cursos
@@ -95,8 +93,6 @@ Estudo e uso prático das principais ferramentas de pentest e análise forense e
 - **siem-playbook** — playbooks para ingestão e correlação de logs.  
 - **Linux-Server-Master** — Ansible/Terraform para hardening de servidores Linux.  
 - **forensic-toolkit** — scripts e exemplos de análise forense.
-
-> Substitua por links para seus repositórios reais.
 
 ---
 
