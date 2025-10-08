@@ -106,10 +106,6 @@ Estudo e uso prático das principais ferramentas de pentest e análise forense e
 
 ---
 
-![matrix](https://i.ibb.co/k9k6V8h/matrix-hacker.gif)
-
----
-
 ## ⚡ Filosofia
 > "A melhor defesa é um código bem escrito, monitorado e seguro."
 
