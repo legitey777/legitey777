@@ -72,12 +72,6 @@ Estudo e uso prático das principais ferramentas de pentest e análise forense e
 
 ---
 
-## 🎓 Formação Acadêmica
-- **Bacharelado / Tecnólogo em Segurança da Informação** — Nome da Instituição (Ano de Conclusão)  
-  - Disciplinas-chave: Segurança de Redes, Criptografia, Forense Computacional, Sistemas Operacionais.  
-  - Atividades: monitoria em laboratório, participação em grupos de segurança.
-
----
 
 ## 🏆 Certificações & Cursos
 - **Red Hat Certified Engineer (RHCE)**  
