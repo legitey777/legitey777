@@ -78,6 +78,7 @@ Estudo e uso prático das principais ferramentas de pentest e análise forense e
 - **CEH (Certified Ethical Hacker)**  
 - **AWS / Azure Security Certifications**
 - **CompTIA Security+**
+- **RHCSA**
 - Cursos: Kubernetes Security, Malware Analysis, Forensics, Network Defense.
   
 ---
