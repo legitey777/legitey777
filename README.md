@@ -72,18 +72,14 @@ Estudo e uso prático das principais ferramentas de pentest e análise forense e
 
 ---
 
-
 ## 🏆 Certificações & Cursos
 - **Red Hat Certified Engineer (RHCE)**  
 - **OSCP (Offensive Security Certified Professional)**  
 - **CEH (Certified Ethical Hacker)**  
 - **AWS / Azure Security Certifications**
 - **CompTIA Security+**
-- **CEH - Ethical Hacking**
-- **RHCSA**
-- **OSCP**
 - Cursos: Kubernetes Security, Malware Analysis, Forensics, Network Defense.
-
+- 
 ---
 
 ## 📂 Projetos & Repositórios (exemplos)
