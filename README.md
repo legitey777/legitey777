@@ -79,7 +79,7 @@ Estudo e uso prático das principais ferramentas de pentest e análise forense e
 - **AWS / Azure Security Certifications**
 - **CompTIA Security+**
 - Cursos: Kubernetes Security, Malware Analysis, Forensics, Network Defense.
-- 
+  
 ---
 
 ## 📂 Projetos & Repositórios (exemplos)
